@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<resolverprotocols>
+<version>0.1</version>
+    <strong>
+        <description>HTTP</description>
+        <id>29410</id>
+    </strong>
+    <weak>
+        <description>bittorrent</description>
+        <id>29401</id>
+    </weak>
+    <strong>
+        <description>HTTP</description>
+        <id>29411</id>
+    </strong>
+    <weak>
+        <description>youtube</description>
+        <id>29402</id>
+    </weak>
+</resolverprotocols>
