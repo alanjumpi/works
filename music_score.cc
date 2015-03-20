@@ -15,7 +15,7 @@ string s[15];
 
 
 
-void note(int j, int i, bool doi, bool diez)
+void note(int j, int i, bool two, bool diez)
 {
     s[i][j] = '@';
     s[i][j-1] = '(';
@@ -41,7 +41,7 @@ void update(int p)
     p-=1;
     string n;
     bool ten = false;
-    bool doi = false;
+    bool two = false;
     cin>>n;
     if(n.size() == 2)
     {
